@@ -33,7 +33,7 @@ http://ports.ubuntu.com/pool/main/d/devscripts/devscripts_2.22.1ubuntu1_arm64.de
 
 
 
-#guacd dependicies
+
 http://ports.ubuntu.com/pool/main/c/cairo/libcairo2-dev_1.16.0-5ubuntu2_arm64.deb
 http://mirrors.kernel.org/ubuntu/pool/main/libt/libtool/libtool_2.4.6-15build2_all.deb
 http://mirrors.kernel.org/ubuntu/pool/main/libj/libjpeg-turbo/libjpeg-turbo8-dev_2.1.2-0ubuntu1_i386.deb
@@ -50,13 +50,14 @@ http://ports.ubuntu.com/pool/main/o/openssl/libssl-dev_3.0.2-0ubuntu1_arm64.deb
 http://ports.ubuntu.com/pool/main/libw/libwebp/libwebp-dev_1.2.2-2_arm64.deb
 
 
-#Supplemental:
+
 http://ports.ubuntu.com/pool/universe/o/ossp-uuid/libossp-uuid-dev_1.6.2-1.5build9_arm64.deb
 http://ports.ubuntu.com/pool/main/libv/libvncserver/libvncserver-dev_0.9.13+dfsg-3build2_arm64.deb
 http://ports.ubuntu.com/pool/main/p/pulseaudio/libpulse-dev_15.99.1+dfsg1-1ubuntu1_arm64.deb
 http://archive.ubuntu.com/ubuntu/pool/main/p/pulseaudio/libpulse-dev_15.99.1+dfsg1-1ubuntu2_amd64.deb
 
-#Guac Source
 https://apache.org/dyn/closer.lua/guacamole/1.4.0/source/guacamole-client-1.4.0.tar.gz?action=download
 https://apache.org/dyn/closer.lua/guacamole/1.4.0/source/guacamole-server-1.4.0.tar.gz?action=download
+
+http://ports.ubuntu.com/pool/universe/l/leptonlib/libleptonica-dev_1.82.0-3build1_arm64.deb
 
