@@ -10,5 +10,7 @@ if ! test $(whoami) == "lfs" ; then
 fi
 
 
-
 echo "Creating build environment...."
+cd $DISK_RO0T
+
+bash build_env/build_scripts/binutils-pass-1.sh

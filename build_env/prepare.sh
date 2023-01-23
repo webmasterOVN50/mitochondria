@@ -39,7 +39,7 @@ cat > $dbhome/.bashrc << EOF
 set +h
 umask 022
 LFS=$LFS
-DISK_ROOT=$DISK_ROOT
+export DISK_ROOT=$DISK_ROOT
 EOF
 
 cat >> $dbhome/.bashrc << "EOF"
